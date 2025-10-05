@@ -1,30 +1,32 @@
-# 個人データ
-スマートフォンゲーム・ライブコンテンツのサーバーサイドエンジニアやっています。
-
-- 名前 中原 悠斗 / Nakahara Yuto
-- 所属 [Pulse株式会社](https://pulse227.com/)
-- 連絡先 yutonakahara111@gmail.com
-
 # 職務経歴
-2024.4 ~ [Pulse株式会社](https://pulse227.com/)
-- 業務内容
+### プロジェクト1: コミュニケーションツールの新規開発
+  - クライアント/サーバー間の通信インタフェースの設計
+    - データ構造/メッセージ設計などを担当
+### プロジェクト2: スマートフォンゲームの運用/開発
   - バーチャルライブ用リアルタイム通信基盤の刷新
+    - チームメンバーが主導する新通信基盤のプロジェクトに参加
+    - デバッグ、機能修正、負荷検証、動作確認、技術検証を担当
   - バーチャルライブ用動画配信基盤の保守
+    - 使用ライブラリ刷新対応
   - スマートフォンゲーム新規機能開発
+    - webブラウザ用のAPI追加
+    - 課金アイテム追加、検証などを担当
   - バーチャルライブ配信運用・保守
+    - 本番イベント時の監視業務
   - 利用言語・構成管理ツールのバージョンアップ対応・保守運用
+    - Go, Terraformなど主要言語/ツールの更新
+    - GitHub ActionsによるCI/CDの改善
   - REST APIのレイテンシ改善
+    - トレースによるボトルネック特定
   - QA向けWebツールの開発
+    - 検証共有用管理ツールの構築
   - リリースデプロイ運用
+
 
 # スキル
 Pulse株式会社にて一年ほど経験
-- Go 
-- JavaScript/TypeScript
-- Terraform
-- ansible
-- React
-- Docker
-- GitHub/Github Actions
-- AWS
-- Google Cloud
+- **言語** Go/JavaScript/TypeScript
+- **インフラ** Terraform/Ansible/Packer/Docker/Cloud Spanner
+- **フロント** React
+- **クラウド** AWS/Google Cloud
+- **CI/CD** GitHub/Github Actions
